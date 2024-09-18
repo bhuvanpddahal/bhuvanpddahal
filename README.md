@@ -1,17 +1,9 @@
 # Hi 👋, I am Bhuvan!
 
-I am a full-stack developer from Nepal. I specialize in creating web solutions using modern technologies and tools.
+I am a self-taught full stack developer from Nepal. I specialize in creating web solutions using modern technologies and tools.
 
 - 🌐 Visit my [portfolio website](https://bhu-1-der.vercel.app/) for more information and to get in touch.
 - 📧 Contact me at [bhuvandahal6@gmail.com](mailto:bhuvandahal6@gmail.com) for any inquiries.
-
----
-
-### *Stats*
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanpddahal&show_icons=true&theme=bear" width="400">
-</p>
 
 ---
 
@@ -32,5 +24,13 @@ I am a full-stack developer from Nepal. I specialize in creating web solutions u
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br />
+
+---
+
+### *Stats*
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanpddahal&show_icons=true&theme=bear" width="400">
+</p>
 
 #
